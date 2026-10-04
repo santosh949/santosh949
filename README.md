@@ -46,13 +46,21 @@
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-- **The Unstable Empire Bot** — Feature-rich Discord community bot built with Python and PostgreSQL
-- **Trends Analyser** — TypeScript project for exploring trends
-- **Long-to-Short Video Generator** — Python-powered video automation
-- **Web2App** — TypeScript web application project
-- **Java Projects** — Hash tables, booking applications, and algorithm practice
+### 🎬 [Long-to-Short Video Generator](https://github.com/santosh949/Long-To-Short-Video-Generator)
+
+An AI-powered video pipeline that converts long YouTube videos into vertical shorts using Llama, Whisper, computer vision, FFmpeg, FastAPI, and React.
+
+`Python` `FastAPI` `React` `FFmpeg` `AI/ML` `YouTube API`
+
+### 📄 [ResumeForge](https://github.com/santosh949/resumeForge-)
+
+An AI-powered application that transforms resume content into a polished portfolio website using React, Gemini, PDF.js, Firebase, and Tailwind CSS.
+
+[![Open Live App](https://img.shields.io/badge/Open_Live_App-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://resume-to-portfolio-website.netlify.app/)
+
+`React` `Gemini AI` `Firebase` `PDF.js` `Tailwind CSS` `Netlify`
 
 ---
 
